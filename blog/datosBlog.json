@@ -1,0 +1,111 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "My Second post",
+      "authorId": 7
+    },
+    {
+      "id": 3,
+      "title": "my third post",
+      "authorId": 8
+    },
+    {
+      "id": 4,
+      "title": "Trabajo el martes",
+      "authorId": 9
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Joaquin Delhom",
+      "nick": "joadelvia"
+    },
+    {
+      "nombre": "Juanma",
+      "nick": "peter",
+      "id": 7
+    },
+    {
+      "nombre": "pedro",
+      "nick": "pedddd",
+      "id": 8
+    },
+    {
+      "nombre": "Rocio",
+      "nick": "ro1498",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "bla,bla,bla",
+      "authorId": 1,
+      "postId": 1,
+      "fecha": "2022-10-30T19:12:42.878Z"
+    },
+    {
+      "id": 2,
+      "content": "Ji hombre",
+      "authorId": 7,
+      "postId": 2,
+      "fecha": "2022-10-30T19:12:42.878Z"
+    },
+    {
+      "content": "Gana el Rayo",
+      "authorId": "1",
+      "postId": "2",
+      "fecha": "2022-10-30T19:12:42.878Z",
+      "id": 7
+    },
+    {
+      "content": "Gana el brenes fenomeno",
+      "authorId": "1",
+      "postId": "2",
+      "fecha": "2022-10-30T19:13:23.641Z",
+      "id": 9
+    },
+    {
+      "content": "oooo",
+      "authorId": "7",
+      "postId": "1",
+      "fecha": "2022-10-30T19:39:16.489Z",
+      "id": 10
+    },
+    {
+      "content": "Casi acabado el proyecyo",
+      "authorId": "8",
+      "postId": "3",
+      "fecha": "2022-10-30T19:44:37.884Z",
+      "id": 11
+    },
+    {
+      "content": "Hecho las promesas",
+      "authorId": "7",
+      "postId": "1",
+      "fecha": "2022-10-30T20:40:31.661Z",
+      "id": 12
+    },
+    {
+      "content": "Gana el Betis",
+      "authorId": "9",
+      "postId": "1",
+      "fecha": "2022-10-30T20:57:34.550Z",
+      "id": 13
+    },
+    {
+      "content": "Te quiero",
+      "authorId": "7",
+      "postId": "4",
+      "fecha": "2022-10-30T21:00:55.483Z",
+      "id": 14
+    }
+  ]
+}
